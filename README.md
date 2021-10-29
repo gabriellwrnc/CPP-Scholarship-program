@@ -1,1 +1,1 @@
-# CSS-Scholarship_program
+# CSS-Scholarship-program
